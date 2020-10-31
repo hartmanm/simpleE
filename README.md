@@ -4,7 +4,7 @@ simpleE the inconspicuous ETH/BTC ticker.
 
 Provides the exchange rate without distracting you.
 
-![inthewildsoftheOS](https://github.com/hartmanm/simpleE/blob/master/simpleEv2.JPG)
+![inthewildsoftheOS](https://github.com/hartmanm/simpleE/simpleEv2.JPG)
 
 ##simpleE was developed using:
 
