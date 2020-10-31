@@ -1,4 +1,4 @@
-## simpleE
+# simpleE
 
 simpleE the inconspicuous ETH/BTC ticker.  
 
@@ -6,7 +6,7 @@ Provides the exchange rate without distracting you.
 
 ![inthewildsoftheOS](https://github.com/hartmanm/simpleE/blob/main/simpleEv2.JPG)
 
-##simpleE was developed using:
+## simpleE was developed using:
 
      Electron
 
@@ -14,17 +14,17 @@ Provides the exchange rate without distracting you.
 
      HTML5
 
-##Platforms
+## Platforms
 
      This version is for Windows
 
-##How To Use
+## How To Use
 
      Clone or Download the repository
 
           run simpleE
 
-##Settings
+## Settings
 
      to move:  hold left click and drag
 
