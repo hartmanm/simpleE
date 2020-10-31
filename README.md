@@ -1,4 +1,4 @@
-##simpleE
+## simpleE
 
 simpleE the inconspicuous ETH/BTC ticker.  
 
