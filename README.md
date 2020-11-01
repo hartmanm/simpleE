@@ -1,6 +1,6 @@
 # simpleE
 
-simpleE the inconspicuous ETH/BTC ticker.  
+simpleE the inconspicuous ETH/USD ticker.  
 
 Provides the exchange rate without distracting you.
 
