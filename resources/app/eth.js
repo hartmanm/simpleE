@@ -38,12 +38,12 @@
 
         var n = JSON.stringify( z );
 
-        n = n.slice(1, 7);
+        n = n.slice(1, 6);
 
 		if(n.slice(1,2) != ".")
 		{
 			var n = JSON.stringify( z );
-			n = n.slice(1, 8);
+			n = n.slice(1, 7);
 		}
 
         document.getElementById( "eth" ).innerHTML = n;
